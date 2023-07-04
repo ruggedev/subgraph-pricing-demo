@@ -1,0 +1,5 @@
+type Test @entity {
+  id: ID!
+  msg: String!
+  block: BigInt!
+}
